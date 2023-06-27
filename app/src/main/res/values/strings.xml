@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ActionModeDemo</string>
+    <string name="encyclopedia">百科</string>
+    <string name="dictionary">字典</string>
+    <string name="copy">拷贝</string>
+    <string name="remove">移除</string>
+    <string name="speech">朗读</string>
+    <string name="not_supported_chinese">不支持中文朗读</string>
+    <string name="enter_app">立即进入</string>
+    <string name="do_note">笔记</string>
+    <string name="correction">纠错</string>
+    <string name="correction_feedback">纠错反馈</string>
+    <string name="add_note">添加笔记</string>
+    <string name="add">添加</string>
+    <string name="expand_highlight">扩展高亮</string>
+    <string name="combine_highlight">合并高亮</string>
+    <string name="mark_color">标注颜色</string>
+</resources>

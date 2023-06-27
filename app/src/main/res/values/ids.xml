@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="position_id" type="id" />
+    <item name="book_position_data" type="id" />
+    <item name="book_section_edit_tag" type="id" />
+    <item name="book_id" type="id" />
+    <item name="chapter_id" type="id" />
+    <item name="holder_id" type="id" />
+    <item name="self_gridView_id" type="id" />
+    <item name="mark_menu_item_id" type="id" />
+    <item name="mark_menu_color_item_id" type="id" />
+    <item name="color_menu_item_id" type="id" />
+    <item name="action_sheet_item_id" type="id" />
+    <item name="action_sheet_bg_id" type="id" />
+    <item name="record_close_id" type="id" />
+
+    <item name="decode" type="id" />
+    <item name="decode_failed" type="id" />
+    <item name="decode_succeeded" type="id" />
+    <item name="quit" type="id" />
+    <item name="restart_preview" type="id" />
+    <item name="return_scan_result" type="id" />
+
+
+    <item name="expandable_text" type="id" />
+    <item name="expand_collapse" type="id" />
+</resources>
